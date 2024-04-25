@@ -17,3 +17,4 @@ I developed a dynamic restaurant website using Frontend technologies such as HTM
 
 ![Screenshot 2024-04-02 231610](https://github.com/velvignesh6404/foodopia-restaurant.github.io/assets/141361652/4172cc8a-8ece-4375-8705-162c85228140)
 
+![image](https://github.com/velvignesh6404/foodopia-restaurant.github.io/assets/141361652/c3c896a0-5491-40df-add8-2c4bf7517df1)
